@@ -19,4 +19,3 @@ A family of plugins that turn the Omarchy (Hyprland) bar into a control surface:
 On my projects, agents do the engineering. My job is the architecture around them: direction, decomposition, guardrails, evaluation, and final judgment — written briefs, shared state that outlives any single session, and a quality gate that can stop a commit from landing. I am currently studying for an Associate in Applied Science in AI Software Engineering at Maestro College and pursuing the GitHub Certified: Agentic AI Developer credential (GH-600).
 
 Elsewhere: kushbeaverproductionz.com · Twitch: Kush_Beaver · YouTube: @KushBeaver
----
